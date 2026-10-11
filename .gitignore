@@ -1,0 +1,15 @@
+## Visual Studio / .NET
+bin/
+obj/
+*.user
+*.suo
+*.cache
+.vs/
+FenBilimleriOtomasyon/packages/
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Logs
+*.log
